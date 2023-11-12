@@ -3,7 +3,7 @@ import { FaRegHeart, FaSearch, FaShoppingBag } from "react-icons/fa";
 
 const Navbar = () => {
     return (
-        <div className="">
+        <div>
             <div className="navbar bg-orange-400 h-24 flex justify-evenly md:justify-between text-white">
                 <div className="">
                     <a className="btn btn-ghost normal-case text-xl md:text-4xl">Shopping</a>
