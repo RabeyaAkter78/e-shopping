@@ -1,0 +1,8 @@
+.vertical-line {
+    position: absolute;
+    left: 50%; /* Adjust the left position as needed */
+    width: 2px; /* Adjust the width as needed */
+    height: 10%; /* This will make it span the full height of the viewport */
+    background-color: #000; /* You can customize the color */
+    margin-left: -1px; /* This centers the line along the Y-axis */
+  }
